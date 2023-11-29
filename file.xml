@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>Mamji - Appcast</title>
+        <item>
+            <title>Version 2.10.30+51</title>
+            <description>desc</description>
+            <pubDate>Tue, 24 OCT 2022 12:00:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.mamji_hospital&hl=en&gl=US" sparkle:version="2.10.30+51"
+            sparkle:os="android" />
+        </item>
+    </channel>
+</rss>
